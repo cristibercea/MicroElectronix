@@ -1,6 +1,6 @@
 # Microelectronix
 - Mostly for Verilog and SystemVerilog enjoyers 🗿
-- Beginner project source codes and test benches made in Vivado IDE
+- Beginner projects (source codes and test benches...or, at least, attempts😁) made in Vivado IDE
 - Courses/Documentations I followed (and recommend):
   - https://technobyte.org/verilog-course-tutorials/
   - https://www.chipverify.com/verilog/verilog-tutorial
