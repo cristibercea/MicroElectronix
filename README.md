@@ -6,4 +6,3 @@
   - https://www.chipverify.com/verilog/verilog-tutorial
   - https://www.chipverify.com/systemverilog/systemverilog-tutorial
   - https://technobyte.org/digital-electronics-logic-design-course-engineering/
-- repo in the making... :))
